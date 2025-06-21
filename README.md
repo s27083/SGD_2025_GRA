@@ -1,6 +1,6 @@
 # Super Ziom - Platformer 2D
 
-Platformówka 2D w stylu Super Ziom napisana w Pythonie z użyciem biblioteki Pygame.
+Platformówka 2D napisana w Pythonie z użyciem biblioteki Pygame.
 
 ## Funkcjonalności
 
