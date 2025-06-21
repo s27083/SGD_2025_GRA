@@ -1,0 +1,14 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Podstawa lodu -->
+  <rect width="64" height="64" fill="#B0E0E6"/>
+  <!-- Odblaski -->
+  <rect width="30" height="8" x="5" y="10" fill="#E0FFFF" opacity="0.8"/>
+  <rect width="25" height="6" x="35" y="25" fill="#E0FFFF" opacity="0.8"/>
+  <rect width="20" height="5" x="10" y="45" fill="#E0FFFF" opacity="0.8"/>
+  <!-- Pęknięcia w lodzie -->
+  <rect width="1" height="40" x="20" y="5" fill="#87CEEB" opacity="0.6"/>
+  <rect width="35" height="1" x="15" y="30" fill="#87CEEB" opacity="0.6"/>
+  <rect width="1" height="25" x="45" y="20" fill="#87CEEB" opacity="0.6"/>
+  <!-- Cienie -->
+  <rect width="64" height="2" y="62" fill="#4682B4" opacity="0.4"/>
+</svg>

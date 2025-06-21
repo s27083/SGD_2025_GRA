@@ -1,0 +1,17 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ziemia -->
+  <rect width="64" height="48" y="16" fill="#8B4513"/>
+  <!-- Trawa -->
+  <rect width="64" height="16" fill="#228B22"/>
+  <!-- Detale trawy -->
+  <rect width="2" height="8" x="5" y="8" fill="#32CD32"/>
+  <rect width="2" height="6" x="12" y="10" fill="#32CD32"/>
+  <rect width="2" height="7" x="20" y="9" fill="#32CD32"/>
+  <rect width="2" height="8" x="28" y="8" fill="#32CD32"/>
+  <rect width="2" height="6" x="35" y="10" fill="#32CD32"/>
+  <rect width="2" height="7" x="42" y="9" fill="#32CD32"/>
+  <rect width="2" height="8" x="50" y="8" fill="#32CD32"/>
+  <rect width="2" height="6" x="57" y="10" fill="#32CD32"/>
+  <!-- Cienie -->
+  <rect width="64" height="2" y="62" fill="#654321" opacity="0.5"/>
+</svg>
